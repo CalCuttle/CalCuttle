@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I'm planning to use this GitHub to host web applications based around my research in fluid mechanics and engineering science.
+
 <!--
 **CalCuttle/CalCuttle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
